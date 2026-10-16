@@ -1,0 +1,112 @@
+Seismic Data Viewer
+Proprietary application terms
+Version: 2026-10-16
+
+1. Scope and identity
+
+These terms apply only to the original proprietary Seismic Data Viewer application
+code supplied by its copyright holder(s). "Licensor" means the actual copyright
+holder(s) that supply or authorize this copy. "Seismic Data Viewer" is a product name,
+not a representation that a company with that name exists. No corporate name,
+publisher address or commercial support commitment is supplied by these terms.
+
+A publisher name entered in installer metadata does not by itself establish
+ownership of the application or of any third-party component. The supplying
+rights holder may provide separate customer, commercial-distribution or support
+terms. No publisher identity is invented in this document.
+
+2. Permission for the proprietary application
+
+To the extent the Licensor owns the relevant rights, the Licensor grants you a
+nonexclusive, royalty-free permission to install, run and make backup copies of
+this application for personal and commercial use. There is no time limit on
+this permission for the copy received under these terms.
+
+Redistribution or resale of the proprietary application requires the rights
+holder's permission, which may be granted separately. No permission to
+sublicense it as your own product or use the Licensor's marks to imply
+endorsement is granted here. These restrictions apply only to the proprietary
+application and are subject to the third-party exceptions in section 3.
+
+No ownership of the proprietary application is transferred. Except for the
+permissions above, the third-party exceptions below and rights that applicable
+law does not permit a contract to restrict, the Licensor reserves its rights in
+the proprietary application. These terms do not require disclosure of its
+independent proprietary source code.
+
+3. Third-party components take precedence
+
+The application uses napari, Python, PySide6, Shiboken6, eligible Qt libraries
+and other third-party components. Those components remain under their own
+copyright notices and licenses; they are not relicensed by this document.
+Read THIRD-PARTY-LIBRARY-REPLACEMENT.txt and the accompanying third-party
+notices, license texts, inventory and source/build materials.
+
+If any provision of these application terms conflicts with a third-party
+license as applied to that component or to its use in a combined work, the
+third-party license prevails to that extent. The limits in section 2 do not
+limit the use, copying, redistribution, study or modification rights granted
+by a third-party license, including commercial use or redistribution of the
+third-party component on the terms of that license.
+
+In particular, you may modify or replace LGPL-covered libraries and may reverse
+engineer the combined application for debugging those modifications, as required
+by the applicable LGPL. You may recombine or relink the application with a
+modified, interface-compatible version of those libraries and install and run
+the resulting combined work. No confidentiality, anti-reverse-engineering,
+copying, alteration or integrity restriction in these terms removes those
+permissions. You need no additional permission from the Licensor to exercise
+them. Corresponding source and installation information required by an
+applicable third-party license remain obligations of the distributor.
+
+Windows-specific Microsoft Distributable Code:
+
+A Windows build may include Microsoft runtime code with Python or other
+native components. For that Microsoft code only, by accepting these terms
+you agree to retain its copyright, trademark and patent notices; not use
+Microsoft's marks to suggest that your product comes from or is endorsed by
+Microsoft; distribute that code only for Microsoft operating systems,
+runtime technologies or application platforms; and not include it in
+malicious, deceptive or unlawful programs. Applicable Microsoft terms also
+remain in force. The exact CPython Windows additional-conditions notice is
+provided in licenses/windows-runtime/ alongside the licensing references.
+
+For Microsoft Distributable Code only, you also agree not to work around its
+technical limitations, or reverse engineer, decompile or disassemble it,
+except to the extent applicable law or an applicable third-party license
+permits despite this limitation. Do not remove its proprietary notices or
+publish, sublicense, rent, lease or lend that Microsoft code as a standalone
+product. These Microsoft-only protections do not restrict the independent
+LGPL modification, replacement, relinking or debugging rights stated above.
+
+If you are authorized to redistribute Microsoft Distributable Code, you must
+also require your distributors and external end users to agree to terms
+protecting that code at least as much as the applicable Microsoft agreement
+requires. This paragraph supplies no independent grant to redistribute
+Microsoft code. It imposes no restriction on independently licensed Python,
+Qt, PySide6 or other open-source code, including the LGPL rights above.
+
+4. Your data
+
+These terms do not transfer ownership of data you open or create. Rights in
+datasets, plug-ins or other content obtained separately remain with their
+respective rights holders. This application license supplies no separate
+permission for such content.
+
+5. Warranty and liability
+
+To the extent permitted by applicable law, this application is provided
+"AS IS", without express or implied warranties, including merchantability,
+fitness for a particular purpose or noninfringement. To that extent, the
+Licensor is not liable for indirect, incidental or consequential loss arising
+from use of this application. Mandatory rights and liabilities that
+applicable law does not allow to be excluded or limited remain unaffected.
+Third-party warranty and liability clauses apply to their own components.
+
+6. Distribution status
+
+This document is an application permission notice. It is not a legal
+certification, a representation that all release obligations have been met,
+or an undertaking by an unidentified publisher to supply commercial support.
+Supplying this text alone does not satisfy corresponding-source, relinking,
+installation-information or other third-party distribution requirements.

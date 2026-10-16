@@ -1,0 +1,1 @@
+Product banner and icon: original project artwork. UI screenshots: actual Mac1.0.2 app using newly created synthetic160³ data, not real survey data. No font files are distributed.
