@@ -1,0 +1,1 @@
+Original product banner/icon and actual app screenshots. Screenshots use newly created synthetic160x160x160 data; no real survey data is included. Mac installation screenshot is from version1.0.2. No font files are distributed.
